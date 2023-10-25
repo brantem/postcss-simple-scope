@@ -1,0 +1,20 @@
+{
+  "name": "postcss-simple-scope",
+  "version": "1.0.0",
+  "description": "PostCSS plugin to add scope to selectors",
+  "keywords": [
+    "postcss",
+    "scope"
+  ],
+  "homepage": "https://github.com/brantem/postcss-simple-scope",
+  "bugs": {
+    "url": "https://github.com/brantem/postcss-simple-scope/issues"
+  },
+  "license": "MIT",
+  "author": "brantem",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brantem/postcss-simple-scope.git"
+  }
+}
